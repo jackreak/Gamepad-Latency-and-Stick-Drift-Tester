@@ -28,8 +28,6 @@ Usage 🚀
 
     Run the Application: Launch the main script from the command line:
 
-Always show details
-
     python main.py
 
     This will open a GUI window and start listening for controller input.
