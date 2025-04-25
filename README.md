@@ -20,8 +20,6 @@ A Python tool that measures the performance of a connected game controller by lo
 
     Clone the Repository: Download or clone this repository to your local machine:
 
-Always show details
-
     git clone https://github.com/jackreak/Gamepad-Latency-and-Stick-Drift-Tester.git
 
 Usage 🚀
